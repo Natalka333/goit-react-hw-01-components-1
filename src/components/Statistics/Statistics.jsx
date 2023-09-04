@@ -35,7 +35,7 @@ const createColor = () => {
     ',' +
     0.5 +
     ')';
-  // console.log(color);
+
   return color;
 };
 
